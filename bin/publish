@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH << './lib'
+require 'bundler/setup'
+require 'feed'
+
+feed_string = Feed.new('./spec/episodes').to_s
+
+File.open('feed.xml', 'w') do |f|
+  f << feed_string
+end
