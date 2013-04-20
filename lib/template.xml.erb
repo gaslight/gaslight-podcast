@@ -1,0 +1,39 @@
+<% podcast_description = "Gaslighters discuss development, technology businesses, and software culture." %>
+<% artwork_url = "https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg" %>
+
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" version="2.0">
+<channel>
+  <!-- RSS 2.0 Channel Information -->
+  <title>The Gaslight Podcast</title>
+  <link>http://blog.gaslight.co/tagged/podcast</link>
+  <description><%= podcast_description %></description>
+  <language>en-us</language>
+  <pubDate><%= podcast_episodes.first.date.to_time.rfc2822 %></pubDate>
+
+  <!-- iTunes Channel Information -->
+  <itunes:owner>
+    <itunes:name>Mitch Lloyd</itunes:name>
+    <itunes:email>itunes@mitchlloyd.com</itunes:email>
+  </itunes:owner>
+  <itunes:author>Mich Lloyd</itunes:author>
+  <itunes:subtitle><%= podcast_description %></itunes:subtitle>
+  <itunes:summary><%= podcast_description %></itunes:summary>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:category text="Technology"></itunes:category>
+  <itunes:image href="<%= artwork_url %>"/>
+
+  <!-- Per Episode Information -->
+  <% podcast_episodes.each do |episode| %>
+  <item>
+    <title><%= episode.title %></title>
+    <description><%= html_escape(episode.body) %></description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate><%= episode.date.to_time.rfc2822 %></pubDate>
+    <guid><%= episode.link %></guid>
+    <enclosure url="<%= episode.link %>" length="-1" type="audio/mpeg"/>
+    <itunes:image href="<%= artwork_url %>"/>
+  </item>
+  <% end %>
+</channel>
+</rss>
+
