@@ -1,1 +1,4 @@
 /mixdowns
+.bundle
+.env
+vendor/ruby
