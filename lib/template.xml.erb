@@ -26,7 +26,9 @@
   <% podcast_episodes.each do |episode| %>
   <item>
     <title><%= episode.title %></title>
-    <description><%= html_escape(episode.body) %></description>
+    <description>
+      <%= html_escape(episode.body) %>
+    </description>
     <dc:creator>Mitch Lloyd</dc:creator>
     <pubDate><%= episode.date.to_time.rfc2822 %></pubDate>
     <guid><%= episode.link %></guid>
