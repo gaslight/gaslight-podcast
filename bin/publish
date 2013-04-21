@@ -10,6 +10,8 @@ File.open('feed.xml', 'w') do |f|
   f << feed_string
 end
 
+`git add feed.xml`
+`git commit -m "Update feed."`
 `git checkout gh-pages`
 `git checkout master feed.xml`
 `git commit -m "Update feed."`
