@@ -19,7 +19,7 @@ class Feed
     return @episodes if @episodes
     @episodes = episode_files.collect do |file|
       Episode.new(file)
-    end
+    end.reverse
   end
 
   def episode_files
