@@ -3,13 +3,15 @@ require 'time'
 require 'yaml'
 
 class Episode
+  TITLE_PREFIX = 'Gaslight Podcast #'
+
   def initialize(path)
-    file = File.new(path)
-    @data = read_file(file)
+    @file = File.new(path)
+    @data = read_file(@file)
   end
 
   def title
-    @data["title"]
+    "#{TITLE_PREFIX}#{episode_number}: #{@data['title']}"
   end
 
   def body
@@ -26,6 +28,12 @@ class Episode
 
   def guid
     @data["guid"] || @data["link"]
+  end
+
+  private
+
+  def episode_number
+    File.basename(@file.path, '.md').to_i
   end
 
   def read_file(file)
