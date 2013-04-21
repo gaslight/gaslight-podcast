@@ -3,16 +3,29 @@ require 'time'
 require 'yaml'
 
 class Episode
-  attr_reader :title, :body, :date, :link
-
   def initialize(path)
     file = File.new(path)
-    data = read_file(file)
+    @data = read_file(file)
+  end
 
-    @title = data["title"]
-    @date = Time.parse(data["date"])
-    @link = data["link"]
-    @body = RDiscount.new(data["body"]).to_html
+  def title
+    @data["title"]
+  end
+
+  def body
+    RDiscount.new(@data["body"]).to_html
+  end
+
+  def date
+    Time.parse(@data["date"])
+  end
+
+  def link
+    @data["link"]
+  end
+
+  def guid
+    @data["guid"] || @data["link"]
   end
 
   def read_file(file)
