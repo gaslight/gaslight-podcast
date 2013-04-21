@@ -16,7 +16,8 @@ class Feed
   end
 
   def podcast_episodes
-    episode_files.collect do |file|
+    return @episodes if @episodes
+    @episodes = episode_files.collect do |file|
       Episode.new(file)
     end
   end
