@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Mon, 04 Nov 2013 08:29:00 -0500</pubDate>
+  <pubDate>Thu, 11 Apr 2013 08:29:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -35,7 +35,7 @@ founder of a company that was purchased by McAfee. You&#39;ll come away feeling 
 
     </description>
     <dc:creator>Mitch Lloyd</dc:creator>
-    <pubDate>Mon, 04 Nov 2013 08:29:00 -0500</pubDate>
+    <pubDate>Thu, 11 Apr 2013 08:29:00 -0400</pubDate>
     <guid>https://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-015.mp3</guid>
     <enclosure url="https://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-015.mp3" length="-1" type="audio/mpeg"/>
     <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
