@@ -17,3 +17,5 @@ end
 `git commit -m "Update feed."`
 `git push origin gh-pages`
 `git checkout master`
+
+`curl http://feedburner.google.com/fb/a/pingSubmit?bloglink=http%3A%2F%2Ffeeds.feedburner.com%2Fgaslightpodcast`
