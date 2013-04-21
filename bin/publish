@@ -9,3 +9,9 @@ feed_string = Feed.new('./spec/episodes').to_s
 File.open('feed.xml', 'w') do |f|
   f << feed_string
 end
+
+`git checkout gh-pages`
+`git checkout master feed.xml`
+`git commit -m "Update feed."`
+`git push origin gh-pages`
+`git checkout master`
