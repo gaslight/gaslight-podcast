@@ -1,0 +1,293 @@
+
+
+
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" version="2.0">
+<channel>
+  <!-- RSS 2.0 Channel Information -->
+  <title>The Gaslight Podcast</title>
+  <link>http://blog.gaslight.co/tagged/podcast</link>
+  <description>Gaslighters discuss development, technology businesses, and software culture.</description>
+  <language>en-us</language>
+  <pubDate>Mon, 04 Nov 2013 08:29:00 -0500</pubDate>
+
+  <!-- iTunes Channel Information -->
+  <itunes:owner>
+    <itunes:name>Mitch Lloyd</itunes:name>
+    <itunes:email>itunes@mitchlloyd.com</itunes:email>
+  </itunes:owner>
+  <itunes:author>Mich Lloyd</itunes:author>
+  <itunes:subtitle>Gaslighters discuss development, technology businesses, and software culture.</itunes:subtitle>
+  <itunes:summary>Gaslighters discuss development, technology businesses, and software culture.</itunes:summary>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:category text="Technology"></itunes:category>
+  <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+
+  <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;This episode features &lt;a href=&quot;http://pantuso.com/about-joe-pantuso/&quot;&gt;Joe Pantuso&lt;/a&gt;
+Cincinnati local software entrepreneur.  We cover Joe&#39;s impressive career as
+an early employee of &lt;a href=&quot;http://en.wikipedia.org/wiki/PKWARE,_Inc&quot;&gt;PKWARE&lt;/a&gt; the
+creator of a Doom game modding engine, an author of multiple books, and the successful
+founder of a company that was purchased by McAfee. You&#39;ll come away feeling inspired.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Mon, 04 Nov 2013 08:29:00 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-015.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-015.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;Chris Wanstrath, co-founder of Github, joined us to talk about his
+company&#39;s culture. We discuss the process they use to ship products,
+hiring good people, and beer thirty.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&quot;Make sure the finished version is something that exists in your mind.&quot;&lt;/p&gt;&lt;/blockquote&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 28 Mar 2013 10:03:00 -0400</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-014.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-014.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;Michael Guterl joins us to talk about his career with programming and how to
+pronounce his name. We dive into Michael&#39;s secrets for being an awesome
+programmer, talk about the balance of automated testing, and discuss how he uses
+Getting Things Done in his workflow.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 14 Mar 2013 21:50:00 -0400</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-013.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-013.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;In this podcast we speak with Kelly Dolan and Michael Kroeger from &lt;a
+href=&quot;http://ingagepartners.com/&quot;&gt;Ingage&lt;/a&gt; about B Corporations. B
+Corporations are companies that measure their success by their impact on the
+planet, the community, and their employees as well as profits. Lean what a
+&quot;triple bottom line&quot; is and what makes these companies special.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 28 Feb 2013 22:06:00 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-012.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-012.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;This week we met with Robert McDonald, cofounder of &lt;a
+href=&quot;http://brandery.org/&quot;&gt;The Brandery&lt;/a&gt;, a Cincinnati incubator. We talked
+about why you may want to launch a startup in Cincinnati, what it takes to
+succeed with an incubator, and how to get your groceries in New York City.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 14 Feb 2013 05:30:12 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-011.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-011.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;Chris Nelson sat down with The Legend, Corey Haines at the CodeMash conference.
+Corey talks about what he&#39;s learned from his pair programming tour across
+the country.  We also hear about his experience putting together a new video
+series called &lt;a href=&quot;http://cleancoders.com/codecast/bawch-episode-1/show&quot;&gt;Build An App with Corey Haines&lt;/a&gt;.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 31 Jan 2013 10:53:00 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-010.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-010.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;This week we recorded the Podcast at Kevin&#39;s house with our past design
+intern and now newest full-time hire, Ryan Arthur. In this episode we talk about
+learning with digital doodles, HAML &amp;amp; SASS, responsive designs, the
+importance of user experience design over aesthetic design, and how to find a
+design job you&#39;ll love.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/arthurra&quot;&gt;Ryan on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://codepen.io/arthurra&quot;&gt;Ryan&#39;s sliding search thingy on CodePen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 17 Jan 2013 08:00:57 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-009.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-009.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;We met with Sara Chipps and Erin Kidwell to talk about &lt;a
+href=&quot;http://girldevelopit.com/&quot;&gt;Girl Develop It&lt;/a&gt;, an organization that holds
+classes and events for developers and aspiring developers. In this episode we
+talk about how Girl Develop It spread across the country with sold out classes
+in only 2 years. Also we discuss creating an inclusive atmosphere and what makes
+a great teacher.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 27 Dec 2012 17:09:00 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-008.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-008.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;In this episode, Kevin and I continue our conversation on project guidance with
+Doug Alcorn.  We talk about different approaches to dividing up work and the
+factors that make certain projects more successful than others.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 13 Dec 2012 09:34:23 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-007.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-007.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;We sat down with Doug Alcorn to talk about software project... guidance?
+This week we dive head on into a discussion of what it takes to have a
+successful software project. We had such a good time riding the rapids and
+turning it up to 11 that we made this a two part series.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jeff Paton&#39;s Company - &lt;a href=&quot;http://comakewith.us&quot;&gt;comakewith.us&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 29 Nov 2012 13:29:00 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-006.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-006.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;This week we spoke with Cincinnati local Jim Weirich about the new version of
+Rake, how he keeps learning, and the case for different kinds of testing.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 15 Nov 2012 09:14:13 -0500</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-005.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-005.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;Kevin and I had a delightful conversation with James Fisher of
+&lt;a href=&quot;http://roadtrippers.com&quot;&gt;Roadtrippers.com&lt;/a&gt;. While gazing over
+Cincinnati&#39;s historic Over-the-Rhine neighborhood, we talked about the
+challenges of running a start-up and the trouble with the advice you&#39;ll
+receive along the way.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 01 Nov 2012 13:31:00 -0400</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-004.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-004.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;This week we spoke with Jeremy Siefkas about LocalizeIt, creating
+a successful Internet business from scratch, and managing the direction of large
+software projects. You&#39;ll gain insights into the world of online
+advertising and learn about &quot;Total Page Domination&quot;.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 04 Oct 2012 23:53:57 -0400</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-003.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-003.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;To our delight, Steve Klabnik joins us on the second Gaslight podcast.  We
+learned about his passion for text-based adventure games at a young age and why
+&quot;people problems&quot; are more interesting than &quot;technical problems&quot;; when
+developing software.  We also discuss how organizations can effectively use
+consensus discussion-making for a flatter structure. Finally Steve weighs in on
+the merits of Turbo Links and the need for measurable facts when talking
+performance.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 04 Oct 2012 23:53:57 -0400</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-002.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-002.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast</title>
+    <description>
+      &lt;p&gt;In this inaugural episode of the Gaslight Podcast Kevin Rockwood and I discuss
+client-side development with Chris Nelson. We also talk about Mastering
+Backbone, Chris&#39; class for beautiful client-side code, and get a sneak
+peak at his upcoming talk at RubyConf.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://training.gaslightsoftware.com/&quot;&gt;Mastering Backbone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubyconf.org/&quot;&gt;RubyConf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Wed, 19 Sep 2012 15:05:00 -0400</pubDate>
+    <guid>https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-001.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/gaslight-podcast/gaslight-podcast-001.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+</channel>
+</rss>
+
