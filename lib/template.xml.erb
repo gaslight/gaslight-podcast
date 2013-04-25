@@ -32,6 +32,7 @@
     <dc:creator>Mitch Lloyd</dc:creator>
     <pubDate><%= episode.date.to_time.rfc2822 %></pubDate>
     <guid><%= episode.guid %></guid>
+    <link><%= episode.guid %></link>
     <enclosure url="<%= episode.link %>" length="-1" type="audio/mpeg"/>
     <itunes:image href="<%= artwork_url %>"/>
   </item>
