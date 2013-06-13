@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 30 May 2013 07:00:00 -0400</pubDate>
+  <pubDate>Thu, 13 Jun 2013 15:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,23 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #18: Eve Online Development with CPP Ripley</title>
+    <description>
+      &lt;p&gt;CCP Ripley, Development Director of &lt;a href=&quot;http://www.eveonline.com/&quot;&gt;Eve Online&lt;/a&gt;
+joined us to talk about CCP&#39;s development process. We talk about how Ripley manages
+small teams of developers and artists to deliver new features and gameplay to over 500,000
+subscribers.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 13 Jun 2013 15:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-018.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-018.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-018.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #17: Dream Jobs with Chris Glass</title>
