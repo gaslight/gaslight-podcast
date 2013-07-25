@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 18 Jul 2013 15:00:00 -0400</pubDate>
+  <pubDate>Wed, 24 Jul 2013 07:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,26 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #21: Southwest Ohio Give Camp</title>
+    <description>
+      &lt;p&gt;&lt;a href=&quot;http://southwestohiogivecamp.org/&quot;&gt;Southwest Ohio Give Camp&lt;/a&gt; is an event that
+brings developers, designers, and other technologists together to work on
+projects to benefit charities. In this episode I spoke with &lt;a href=&quot;https://twitter.com/MattBrewer&quot;&gt;Matt
+Brewer&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/cromwellryan&quot;&gt;Ryan
+Cromwell&lt;/a&gt;, the organizers of the event, to
+learn about the origins of SWOGC and how Matt and Ryan keep it expanding each
+year.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Wed, 24 Jul 2013 07:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-021.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-021.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-021.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #20: Kanban Smackdown Part 2</title>
