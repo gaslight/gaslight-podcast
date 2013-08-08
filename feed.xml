@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Wed, 24 Jul 2013 07:00:00 -0400</pubDate>
+  <pubDate>Thu, 08 Aug 2013 07:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,23 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #22: Managing Software Teams with Joe Pantuso</title>
+    <description>
+      &lt;p&gt;This week &lt;a href=&quot;https://twitter.com/jpantuso&quot;&gt;Joe Pantuso&lt;/a&gt;, CTO of
+&lt;a href=&quot;http://www.ahalogy.com/&quot;&gt;Ahalogy&lt;/a&gt; joined us to talk more about managing
+software teams. We talk more about Kanban, hiring developers, and working with
+distributed teams.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 08 Aug 2013 07:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-022.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-022.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-022.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #21: Southwest Ohio Give Camp</title>
