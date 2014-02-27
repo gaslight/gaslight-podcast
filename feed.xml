@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 29 Aug 2013 07:00:00 -0400</pubDate>
+  <pubDate>Mon, 24 Feb 2014 07:00:00 -0500</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,22 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #24: Teaching Ruby on Rails</title>
+    <description>
+      &lt;p&gt;In this episode I sit down with &lt;a href=&quot;https://twitter.com/kevinrockwood&quot;&gt;Kevin&lt;/a&gt; and
+&lt;a href=&quot;https://twitter.com/mguterl&quot;&gt;Michael&lt;/a&gt; to talk about why developers are treated
+like children, teaching Ruby on Rails, and obsessive problem solving.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Mon, 24 Feb 2014 07:00:00 -0500</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-024.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-024.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-024.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #23: Ember.js with Yehuda Katz and Tom Dale</title>
