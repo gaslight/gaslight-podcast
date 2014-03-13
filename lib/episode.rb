@@ -6,8 +6,8 @@ class Episode
   TITLE_PREFIX = 'Gaslight Podcast #'
 
   def initialize(path)
-    @file = File.new(path)
-    @data = read_file(@file)
+    @path = path
+    @data = read_file(@path)
   end
 
   def title
@@ -33,16 +33,16 @@ class Episode
   private
 
   def episode_number
-    File.basename(@file.path, '.md').to_i
+    File.basename(@path, '.md').to_i
   end
 
-  def read_file(file)
-    if File.read(file) =~ /\A(---\s*\n.*?\n?)^(---\s*$\n?)/m
+  def read_file(path)
+    if File.read(path) =~ /\A(---\s*\n.*?\n?)^(---\s*$\n?)/m
       data = YAML.load($1)
       data["body"] = $'
       data
     else
-      raise "No YAML front matter found for file #{file.path}"
+      raise "No YAML front matter found for file #{path}"
     end
   end
 end
