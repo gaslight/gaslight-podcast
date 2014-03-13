@@ -23,9 +23,6 @@ class Feed
   end
 
   def episode_files
-    local_files = Dir.new(EPISODE_DIR).entries - ['.', '..']
-    local_files.collect do |local_file|
-      [EPISODE_DIR, local_file].join('/')
-    end
+    Dir["#{EPISODE_DIR}/*.md"]
   end
 end
