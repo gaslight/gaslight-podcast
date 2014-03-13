@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Mon, 24 Feb 2014 07:00:00 -0500</pubDate>
+  <pubDate>Wed, 12 Mar 2014 07:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,22 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #25: Bitzegaio on Software Patents</title>
+    <description>
+      &lt;p&gt;In this episode I talked with &lt;a href=&quot;https://twitter.com/ebitz&quot;&gt;Eric Bitzegaio&lt;/a&gt;,
+former digital patent attorney and current developer, to discuss software
+patents.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Wed, 12 Mar 2014 07:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-025.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-025.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-025.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #24: Teaching Ruby on Rails</title>
