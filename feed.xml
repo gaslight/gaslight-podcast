@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Wed, 12 Mar 2014 07:00:00 -0400</pubDate>
+  <pubDate>Fri, 28 Mar 2014 08:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,22 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #26: Ruby Culture with Dave Thomas</title>
+    <description>
+      &lt;p&gt;In this episode, &lt;a href=&quot;https://twitter.com/pragdave&quot;&gt;Dave Thomas&lt;/a&gt;, Doug Alcorn and I
+discuss how Dave became involved with Ruby, how the culture of Ruby has evolved
+over time, and Jim Weirich&#39;s legacy in the community.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Fri, 28 Mar 2014 08:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-026.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-026.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-026.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #25: Bitzegaio on Software Patents</title>
