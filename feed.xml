@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 15 May 2014 08:00:00 -0400</pubDate>
+  <pubDate>Thu, 19 Jun 2014 08:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,23 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #29: Feedback Loops</title>
+    <description>
+      &lt;p&gt;&lt;a href=&quot;http://michaelguterl.com/&quot;&gt;Michael Guterl&lt;/a&gt; and &lt;a href=&quot;http://mitchlloyd.com&quot;&gt;I&lt;/a&gt;
+talked about something I&#39;ve been thinking about a lot: the value of feedback
+loops. The discussion covers cooking, automated testing, and professional
+feedback.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 19 Jun 2014 08:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-029.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-029.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-029.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #28: Building an Employee Owned Company with Ry Walker</title>
