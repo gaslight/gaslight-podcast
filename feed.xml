@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 19 Jun 2014 08:00:00 -0400</pubDate>
+  <pubDate>Thu, 03 Jul 2014 19:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,23 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #30: Designers and Developers</title>
+    <description>
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/kclasita&quot;&gt;Kristin Lasita&lt;/a&gt;, &lt;a href=&quot;Feedback%20Loops&quot;&gt;Kenny Glenn&lt;/a&gt;,
+&lt;a href=&quot;http://mitchlloyd.com&quot;&gt;I&lt;/a&gt;, talked about working as software designer. We
+discussed the balance between usability and &quot;pretty things&quot; as well as the
+profound conclusion that we&#39;re really all just solving problems together.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 03 Jul 2014 19:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-030.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-030.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-030.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #29: Feedback Loops</title>
