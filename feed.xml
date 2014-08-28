@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 03 Jul 2014 19:00:00 -0400</pubDate>
+  <pubDate>Thu, 28 Aug 2014 19:00:00 -0400</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,23 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #31: Business!</title>
+    <description>
+      &lt;p&gt;This episode is all about Business! &lt;a href=&quot;https://twitter.com/cdmwebs&quot;&gt;Chis Moore&lt;/a&gt;,
+&lt;a href=&quot;https://twitter.com/pkananen&quot;&gt;Peter Kananen&lt;/a&gt;, &lt;a href=&quot;http://mitchlloyd.com&quot;&gt;I&lt;/a&gt;,
+discuss about what we&#39;re working on currently at Gaslight and difficult
+consulting situations.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 28 Aug 2014 19:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-031.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-031.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-031.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #30: Designers and Developers</title>
