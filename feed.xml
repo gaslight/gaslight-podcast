@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 28 Aug 2014 19:00:00 -0400</pubDate>
+  <pubDate>Wed, 17 Dec 2014 19:00:00 -0500</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,23 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #32: Ember in Practice</title>
+    <description>
+      &lt;p&gt;In this episode I talked with &lt;a href=&quot;https://twitter.com/workmanw&quot;&gt;Wesley Workman&lt;/a&gt;,
+engineer at &lt;a href=&quot;http://batterii.com/&quot;&gt;Batterii&lt;/a&gt; about being a long term user of
+the &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember JavaScript framework&lt;/a&gt;. We talk about the
+community, testing, and upcoming changes to framework.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Wed, 17 Dec 2014 19:00:00 -0500</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-032.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-032.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-032.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #31: Business!</title>
