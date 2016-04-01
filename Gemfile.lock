@@ -16,15 +16,14 @@ GEM
       mime-types
       xml-simple
     builder (3.1.4)
-    columnize (0.3.6)
+    byebug (3.3.0)
+      columnize (~> 0.8)
+      debugger-linecache (~> 1.2)
+      slop (~> 3.6)
+    columnize (0.8.9)
     commander (4.1.3)
       highline (~> 1.6.11)
-    debugger (1.5.0)
-      columnize (>= 0.3.1)
-      debugger-linecache (~> 1.2.0)
-      debugger-ruby_core_source (~> 1.2.0)
     debugger-linecache (1.2.0)
-    debugger-ruby_core_source (1.2.0)
     diff-lcs (1.2.3)
     dotenv (0.5.0)
     highline (1.6.15)
@@ -38,6 +37,7 @@ GEM
     rspec-expectations (2.13.0)
       diff-lcs (>= 1.1.3, < 2.0)
     rspec-mocks (2.13.1)
+    slop (3.6.0)
     taglib-ruby (0.5.2)
     xml-simple (1.1.2)
 
@@ -45,7 +45,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  debugger
+  byebug
   podcast_press!
   rdiscount
   rspec

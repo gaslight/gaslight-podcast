@@ -4,4 +4,4 @@ gem "podcast_press", git: "git://github.com/mitchlloyd/podcast-press.git"
 
 gem 'rspec'
 gem 'rdiscount'
-gem 'debugger'
+gem 'byebug'

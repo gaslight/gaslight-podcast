@@ -8,7 +8,7 @@
   <link>http://blog.gaslight.co/tagged/podcast</link>
   <description>Gaslighters discuss development, technology businesses, and software culture.</description>
   <language>en-us</language>
-  <pubDate>Thu, 17 Apr 2014 08:00:00 -0400</pubDate>
+  <pubDate>Wed, 17 Dec 2014 19:00:00 -0500</pubDate>
 
   <!-- iTunes Channel Information -->
   <itunes:owner>
@@ -23,6 +23,92 @@
   <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
 
   <!-- Per Episode Information -->
+  
+  <item>
+    <title>Gaslight Podcast #32: Ember in Practice</title>
+    <description>
+      &lt;p&gt;In this episode I talked with &lt;a href=&quot;https://twitter.com/workmanw&quot;&gt;Wesley Workman&lt;/a&gt;,
+engineer at &lt;a href=&quot;http://batterii.com/&quot;&gt;Batterii&lt;/a&gt; about being a long term user of
+the &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember JavaScript framework&lt;/a&gt;. We talk about the
+community, testing, and upcoming changes to framework.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Wed, 17 Dec 2014 19:00:00 -0500</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-032.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-032.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-032.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast #31: Business!</title>
+    <description>
+      &lt;p&gt;This episode is all about Business! &lt;a href=&quot;https://twitter.com/cdmwebs&quot;&gt;Chis Moore&lt;/a&gt;,
+&lt;a href=&quot;https://twitter.com/pkananen&quot;&gt;Peter Kananen&lt;/a&gt;, &lt;a href=&quot;http://mitchlloyd.com&quot;&gt;I&lt;/a&gt;,
+discuss about what we&#39;re working on currently at Gaslight and difficult
+consulting situations.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 28 Aug 2014 19:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-031.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-031.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-031.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast #30: Designers and Developers</title>
+    <description>
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/kclasita&quot;&gt;Kristin Lasita&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/_kennyglenn&quot;&gt;Kenny
+Glenn&lt;/a&gt;, &lt;a href=&quot;http://mitchlloyd.com&quot;&gt;I&lt;/a&gt;, talked
+about working as software designer. We discussed the balance between usability
+and &quot;pretty things&quot; as well as the profound conclusion that we&#39;re really all
+just solving problems together.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 03 Jul 2014 19:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-030.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-030.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-030.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast #29: Feedback Loops</title>
+    <description>
+      &lt;p&gt;&lt;a href=&quot;http://michaelguterl.com/&quot;&gt;Michael Guterl&lt;/a&gt; and &lt;a href=&quot;http://mitchlloyd.com&quot;&gt;I&lt;/a&gt;
+talked about something I&#39;ve been thinking about a lot: the value of feedback
+loops. The discussion covers cooking, automated testing, and professional
+feedback.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 19 Jun 2014 08:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-029.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-029.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-029.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
+  
+  <item>
+    <title>Gaslight Podcast #28: Building an Employee Owned Company with Ry Walker</title>
+    <description>
+      &lt;p&gt;&lt;a href=&quot;https://twitter.com/rywalker&quot;&gt;Ry Walker&lt;/a&gt;,
+&lt;a href=&quot;http://differential.io/&quot;&gt;Differential&lt;/a&gt; partner, talked with &lt;a href=&quot;http://michaelguterl.com/&quot;&gt;Michael
+Guterl&lt;/a&gt; and &lt;a href=&quot;http://mitchlloyd.com&quot;&gt;me&lt;/a&gt; about how he
+is &quot;breaking the rules&quot; to build his ideal company.&lt;/p&gt;
+
+    </description>
+    <dc:creator>Mitch Lloyd</dc:creator>
+    <pubDate>Thu, 15 May 2014 08:00:00 -0400</pubDate>
+    <guid>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-028.mp3</guid>
+    <link>http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-028.mp3</link>
+    <enclosure url="http://s3.amazonaws.com/gaslight-podcasts/gaslight-podcast-028.mp3" length="-1" type="audio/mpeg"/>
+    <itunes:image href="https://raw.github.com/gaslight/gaslight-podcast/master/embedded_artwork.jpg"/>
+  </item>
   
   <item>
     <title>Gaslight Podcast #27: Developer Communities with Leah Silber</title>
